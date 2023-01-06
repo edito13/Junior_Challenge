@@ -7,15 +7,7 @@ Um dos desafios mais feito em entrevistas de emprego para desenvolvedores junior
 
 Fiz esse desafio um pouco a mais do pedido por eu já ter um pouco mais de experiência mais ainda assim ele resolve pereitamente o que foi pedido, fiz ele com **React JS** + **TypeScript**.
 
-<img src='./src/assets/1.png'>
-
-***
-
-<img src='./src/assets/2.png'>
-
-***
-
-<img src='./src/assets/3.png'>
+<video src="./src/assets/20230106_015820.mp4" autoplay></video>
 
 ***
 
