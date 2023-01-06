@@ -7,7 +7,7 @@ Um dos desafios mais feito em entrevistas de emprego para desenvolvedores junior
 
 Fiz esse desafio um pouco a mais do pedido por eu já ter um pouco mais de experiência mais ainda assim ele resolve pereitamente o que foi pedido, fiz ele com **React JS** + **TypeScript**.
 
-<video src="./src/assets/20230106_015820.mp4" autoplay></video>
+<video src="./src/assets/20230106_015820.mp4" width="100%" height="100%" autoplay></video>
 
 ***
 
